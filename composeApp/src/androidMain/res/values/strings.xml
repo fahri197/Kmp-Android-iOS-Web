@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KmpDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_diy">DIY</string>
+    <string name="title_schedules">Schedules</string>
+    <string name="title_profile">My Profile</string>
+</resources>
