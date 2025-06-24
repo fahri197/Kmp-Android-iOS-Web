@@ -8,9 +8,9 @@ A complete, production-ready Kotlin Multiplatform (KMP) starter project built wi
 
 | Android | iOS | Web |
 |--------|-----|-----|
-| ![Android Screenshot](screenshots/android_home.png) | ![iOS Screenshot](screenshots/ios_register.png) | ![Web Screenshot](screenshots/web_otp.png) |
+| ![Android Screenshot](screenshots/android_screenshot.png) | ![iOS Screenshot](screenshots/iOS_screenshot.png) | ![Web Screenshot](screenshots/web_screenshot.png) |
 
-> 💡 *Screenshots shown: Home screen (Android), Registration screen (iOS), OTP screen (Web)*
+> 💡 *Screenshots shown: Login screen (Android), Otp screen (iOS), Registration screen (Web)*
 
 ---
 
